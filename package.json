@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/bigquery": "^6.0.2",
     "@stdlib/random-base-minstd": "^0.0.6",
     "bip39": "^3.0.4",
+    "dotenv": "^16.0.1",
     "ethers": "^5.7.0",
     "lcg": "^0.1.4"
   }
